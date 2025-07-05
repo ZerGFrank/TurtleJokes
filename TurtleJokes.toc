@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff39ff14Turtle|r|cffffffffJokes|r
+## Notes: Jokes for TurtleSnacks guildies.
+## Author: Geomi
+## Version: 3.1
+## X-Category: Chat
+
+TurtleJokes.lua
